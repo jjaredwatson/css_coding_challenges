@@ -1,30 +1,7 @@
-## Le Wagon HTML / CSS challenges
+# Challenge 1 - Music player mockup
 
-Here is the roadmap of the day
+To the best of your ability, recreate this music player widget! 
 
+![](https://github.com/wdi-atx-11/css_coding_challenges/blob/master/challenge_1/is-this-love.png?raw=true)
 
-### `01-profile-content`
-
-A simple challenge to manipulate basic HTML tags and create a profile page with headers/texts/images/tables.
-
-### `02-fonts-colors`
-
-Add simple CSS rules to design fonts and colors of your profile page.
-
-### `03-box-model`
-
-Play with the box model (`margin/border/padding/width/height`) by splitting your profile informations into different `<div>`.
-
-
-### `04-advanced-selectors`
-
-Use advanced selectors (id, class, grouping, descendant selectors) to fine-tune your page with a more subtle design.
-
-### `05-fixed-sidebar`
-
-Create a simple layout with an elegant fixed sidebar.
-
-
-### `06-profile-dashboard`
-
-Create a cool profile dashboard by inserting your infos into a nice 2D layout. You'll have to use most standard CSS positioning techniques.
+Good Luck!
